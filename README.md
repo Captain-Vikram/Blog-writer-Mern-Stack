@@ -25,8 +25,8 @@ docker compose version
 
 ```powershell
 # Replace the URL with your repo
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_FOLDER>
+git clone https://github.com/Captain-Vikram/Blog-writer-Mern-Stack-.git
+cd Blog-writer-Mern-Stack-.git
 ```
 
 Repo layout (key parts):
